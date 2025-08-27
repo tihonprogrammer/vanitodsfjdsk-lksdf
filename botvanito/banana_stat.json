@@ -1,0 +1,1185 @@
+{
+    "1282672403": {
+        "bananas": 1000297,
+        "last_banana": 1756213561.5028439,
+        "total_earned": 1000638,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "👑 Владелец бота",
+            "🔥 Огненный банан",
+            "🦍 Горилла-чемпион",
+            "🍌 Банановый новичок",
+            "🍌 Опытный банановед"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "diamond_bananas": 1,
+        "inventory": [
+            "5"
+        ],
+        "boosts": {},
+        "golden_minion": true
+    },
+    "1308588259": {
+        "bananas": 153,
+        "last_banana": 1756285779.8040001,
+        "total_earned": 219,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🔥 Огненный банан"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "boosts": {
+            "multiplier": 4
+        },
+        "inventory": [
+            "5",
+            "1"
+        ]
+    },
+    "6099485185": {
+        "bananas": 339,
+        "last_banana": 1756285619.1235805,
+        "total_earned": 393,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🤫 Сигма",
+            "🔥 Огненный банан",
+            "🦍 Горилла-чемпион",
+            "😎 Первые 100, 200 и 300 🍌",
+            "🥇 Рекордсмен",
+            "🔥 Горячая серия",
+            "🚀 Неудержимый"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "warns": 0,
+        "boosts": {},
+        "inventory": []
+    },
+    "1087981497": {
+        "bananas": 14,
+        "last_banana": 1756133917.564724,
+        "total_earned": 11,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "6365659348": {
+        "bananas": 14,
+        "last_banana": 1753613505.7471454,
+        "total_earned": 11,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "2023530931": {
+        "bananas": 52,
+        "last_banana": 1755340935.4642248,
+        "total_earned": 51,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "2042330618": {
+        "bananas": 93,
+        "last_banana": 1756230271.7681336,
+        "total_earned": 114,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "inventory": [
+            "8"
+        ]
+    },
+    "6650910399": {
+        "bananas": 29,
+        "last_banana": 1754657501.4227114,
+        "total_earned": 28,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "5176508798": {
+        "bananas": 213,
+        "last_banana": 1756288058.9015634,
+        "total_earned": 313,
+        "wins": 2,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🍌 Опытный банановед",
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 2,
+        "max_streak": 2,
+        "flags": [],
+        "inventory": [],
+        "boosts": {}
+    },
+    "5216237571": {
+        "bananas": 4,
+        "last_banana": 1753518614.0372427,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "5660232219": {
+        "bananas": 65,
+        "last_banana": 1756199214.643243,
+        "total_earned": 79,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "5244692301": {
+        "bananas": 277,
+        "last_banana": 1756296134.4151652,
+        "total_earned": 329,
+        "wins": 2,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 2,
+        "max_streak": 2,
+        "flags": [],
+        "boosts": {},
+        "diamond_bananas": 1,
+        "inventory": []
+    },
+    "6358741315": {
+        "bananas": 228,
+        "last_banana": 1756296118.3033636,
+        "total_earned": 411,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "warns": 2,
+        "inventory": [],
+        "boosts": {},
+        "diamond_bananas": 1
+    },
+    "6617109469": {
+        "bananas": 169,
+        "last_banana": 1756288236.3610103,
+        "total_earned": 208,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🔥 Огненный банан",
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "inventory": [],
+        "boosts": {}
+    },
+    "6060327486": {
+        "bananas": 11,
+        "last_banana": 1755257137.1295502,
+        "total_earned": 8,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "5958656749": {
+        "bananas": 75,
+        "last_banana": 1756230271.9071622,
+        "total_earned": 75,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "8197587501": {
+        "bananas": 4,
+        "last_banana": 1753555220.896833,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "5920802640": {
+        "bananas": 88,
+        "last_banana": 1755856503.7365606,
+        "total_earned": 133,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "inventory": [],
+        "boosts": {}
+    },
+    "2079532503": {
+        "bananas": 39,
+        "last_banana": 1756286046.470075,
+        "total_earned": 51,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "warns": 2,
+        "inventory": []
+    },
+    "1683313822": {
+        "bananas": 8,
+        "total_earned": 7,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754561199.2695322
+    },
+    "6667472492": {
+        "bananas": 70,
+        "total_earned": 76,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755685480.9397008
+    },
+    "1880343911": {
+        "bananas": 17,
+        "total_earned": 14,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754398710.8466253
+    },
+    "7036684215": {
+        "bananas": 116,
+        "total_earned": 154,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756286982.4794502,
+        "inventory": [],
+        "boosts": {}
+    },
+    "7247401471": {
+        "bananas": 81,
+        "total_earned": 89,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755788264.1667917
+    },
+    "5517172380": {
+        "bananas": 44,
+        "total_earned": 36,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756239348.8554373,
+        "warns": 0
+    },
+    "6564637562": {
+        "bananas": 6,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753636214.8178267
+    },
+    "5333799596": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753636272.4215195
+    },
+    "7436112853": {
+        "bananas": 41,
+        "total_earned": 49,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756241167.3524637,
+        "inventory": [],
+        "boosts": {}
+    },
+    "7827374847": {
+        "bananas": 18,
+        "total_earned": 15,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754844352.3298156
+    },
+    "6610696011": {
+        "bananas": 17,
+        "total_earned": 15,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753706542.8140354
+    },
+    "7634837907": {
+        "bananas": 98,
+        "total_earned": 94,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Миньон-новичок",
+            "🔥 Огненный банан"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1756230312.6341915,
+        "inventory": []
+    },
+    "5313505765": {
+        "bananas": 13,
+        "total_earned": 10,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755513796.5827863
+    },
+    "1215769197": {
+        "bananas": 166,
+        "total_earned": 217,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756288106.3563316,
+        "diamond_bananas": 1,
+        "inventory": [
+            "6",
+            "5",
+            "5",
+            "6"
+        ],
+        "boosts": {}
+    },
+    "6721165015": {
+        "bananas": 13,
+        "total_earned": 10,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754040465.4321785
+    },
+    "7003517209": {
+        "bananas": 54,
+        "total_earned": 84,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756287384.0997322,
+        "inventory": [
+            "6"
+        ],
+        "boosts": {}
+    },
+    "2046113225": {
+        "bananas": 13,
+        "total_earned": 12,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755513817.8342142
+    },
+    "5114224554": {
+        "bananas": 100,
+        "total_earned": 112,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756296147.0736141
+    },
+    "5392854369": {
+        "bananas": 155,
+        "total_earned": 195,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756287693.243829,
+        "warns": 1,
+        "inventory": [
+            "6"
+        ],
+        "boosts": {}
+    },
+    "7635157976": {
+        "bananas": 49,
+        "total_earned": 48,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755788265.732218
+    },
+    "6154474153": {
+        "bananas": 8,
+        "total_earned": 5,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753872179.4186673
+    },
+    "6055977978": {
+        "bananas": 12,
+        "total_earned": 13,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754646280.4033916
+    },
+    "6042128089": {
+        "bananas": 11,
+        "total_earned": 8,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754652559.8156643
+    },
+    "2082246410": {
+        "bananas": 60,
+        "total_earned": 88,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🍌 Опытный банановед"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756285806.0980997,
+        "warns": 3,
+        "boosts": {},
+        "inventory": []
+    },
+    "5647757355": {
+        "bananas": 22,
+        "total_earned": 25,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755174755.9710462
+    },
+    "6906677445": {
+        "bananas": 48,
+        "total_earned": 50,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755853437.4214277,
+        "warns": 1
+    },
+    "5980455418": {
+        "bananas": 12,
+        "total_earned": 9,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755791311.8958414
+    },
+    "6308286404": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753901312.4789844
+    },
+    "6132541394": {
+        "bananas": 36,
+        "total_earned": 37,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754646280.239964
+    },
+    "5530390654": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753957675.0731254
+    },
+    "6060474217": {
+        "bananas": 16,
+        "total_earned": 15,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755377495.7568612
+    },
+    "5429215816": {
+        "bananas": 40,
+        "total_earned": 39,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755685480.4160438
+    },
+    "7930428590": {
+        "bananas": 30,
+        "total_earned": 27,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755927611.5107424
+    },
+    "1848513982": {
+        "bananas": 10,
+        "total_earned": 9,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755636471.6692853
+    },
+    "1784642358": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1753990895.9335985
+    },
+    "7237918198": {
+        "bananas": 17,
+        "total_earned": 17,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755721296.594757
+    },
+    "5724087904": {
+        "bananas": 7,
+        "total_earned": 7,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754328031.0918975
+    },
+    "7299888303": {
+        "bananas": 5,
+        "total_earned": 2,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755251498.6486144
+    },
+    "5974678196": {
+        "bananas": 10,
+        "total_earned": 10,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755014746.964364,
+        "warns": 2
+    },
+    "5767209618": {
+        "bananas": 21,
+        "total_earned": 21,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754844347.7597213
+    },
+    "7191939953": {
+        "bananas": 26,
+        "total_earned": 24,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755451856.4696734,
+        "warns": 1
+    },
+    "6890457595": {
+        "bananas": 9,
+        "total_earned": 9,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754469930.865213
+    },
+    "5570060244": {
+        "bananas": 5,
+        "total_earned": 2,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754249163.5964632
+    },
+    "7557492221": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754294236.2397015
+    },
+    "6593202236": {
+        "bananas": 6,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754300986.7095163
+    },
+    "2114059586": {
+        "bananas": 8,
+        "total_earned": 5,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755324905.2012722
+    },
+    "6582286270": {
+        "bananas": 11,
+        "total_earned": 8,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755926258.0604932
+    },
+    "7496504140": {
+        "bananas": 6,
+        "total_earned": 15,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [
+            "🍌 Опытный банановед"
+        ],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755685475.2673829,
+        "inventory": [
+            "7"
+        ]
+    },
+    "7926610738": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754396612.733126
+    },
+    "5461640139": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754417766.0924008
+    },
+    "5567911650": {
+        "bananas": 6,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754561219.1267862
+    },
+    "6375012028": {
+        "bananas": 26,
+        "total_earned": 32,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1756213392.8896582
+    },
+    "163399840": {
+        "bananas": 5,
+        "total_earned": 2,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754650715.3376827
+    },
+    "5255439661": {
+        "bananas": 6,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1754844347.4240224
+    },
+    "5982878575": {
+        "bananas": 3,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "warns": 1,
+        "last_banana": 0
+    },
+    "6778954306": {
+        "bananas": 6,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "warns": 2,
+        "last_banana": 1755059422.3090892
+    },
+    "1009936964": {
+        "bananas": 4,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755026620.9164793
+    },
+    "6564021228": {
+        "bananas": 6,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755079710.3269715
+    },
+    "5790857048": {
+        "bananas": 15,
+        "total_earned": 43,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [
+            "🍌 Повелитель связок",
+            "🔥 Горячая серия"
+        ],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756285601.3758314,
+        "inventory": []
+    },
+    "1733716798": {
+        "bananas": 3,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "warns": 2
+    },
+    "6130889239": {
+        "bananas": 15,
+        "total_earned": 12,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755174771.1669989
+    },
+    "6299811318": {
+        "bananas": 54,
+        "total_earned": 67,
+        "wins": 3,
+        "losses": 0,
+        "achievements": [
+            "🔥 Горячая серия",
+            "🚀 Неудержимый"
+        ],
+        "current_streak": 3,
+        "max_streak": 3,
+        "flags": [],
+        "last_banana": 1756296701.3548393,
+        "inventory": []
+    },
+    "7376625937": {
+        "bananas": 5,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "6626192632": {
+        "bananas": 1,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755453684.3975298
+    },
+    "8456517631": {
+        "bananas": 2,
+        "total_earned": 2,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755616836.786832
+    },
+    "active_events": {
+        "bananas": 0,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "6236919136": {
+        "bananas": 0,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 0
+    },
+    "5218485883": {
+        "bananas": 2,
+        "total_earned": 2,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755688986.5426378
+    },
+    "5683149669": {
+        "bananas": 0,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 0
+    },
+    "425442049": {
+        "bananas": 4,
+        "total_earned": 4,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1755788301.0067635
+    },
+    "active_bombs": {
+        "bananas": 0,
+        "total_earned": 0,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": []
+    },
+    "8446998307": {
+        "bananas": 2,
+        "total_earned": 2,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1756041077.5370224
+    },
+    "5223684492": {
+        "bananas": 3,
+        "total_earned": 3,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756287394.5809333
+    },
+    "7458610472": {
+        "bananas": 6,
+        "total_earned": 6,
+        "wins": 1,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 1,
+        "max_streak": 1,
+        "flags": [],
+        "last_banana": 1756240898.8256395
+    },
+    "7425773400": {
+        "bananas": 3,
+        "total_earned": 3,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1756208708.954959
+    },
+    "7129126054": {
+        "bananas": 1,
+        "total_earned": 1,
+        "wins": 0,
+        "losses": 0,
+        "achievements": [],
+        "current_streak": 0,
+        "max_streak": 0,
+        "flags": [],
+        "last_banana": 1756223416.0616908
+    }
+}
